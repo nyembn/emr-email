@@ -1,0 +1,5 @@
+This software has the following limitations:
+1. Needs tomcat server running besides openEMR’s apache
+2. The php page redirects to our Java extension.
+3. Manual configuration might be needed for mySQL database connection (see MHRSharing/MailRecord.java line 30)
+4. patient_record.php has to be replaced in the following directory openEMR_root_folder/interface/patient_file/report 

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Tomcat 7.0.68"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/mail"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/org.openehealth.ipf.oht.mdht:ipf-oht-mdht-uml-cda-ccd:1.2.0.201212201425"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/ipf-oht-mdht-uml-cda-ccd-1.2.0.201212201425-sources"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/JDBConnectNQuery"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/CCDSecurity"/>
+	<classpathentry kind="output" path="out/production/MHRSharing"/>
+</classpath>

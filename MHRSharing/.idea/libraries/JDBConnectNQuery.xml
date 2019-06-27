@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="JDBConnectNQuery">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../JDBConnectNQuery/out/artifacts/JDBConnectNQuery_jar/JDBConnectNQuery.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

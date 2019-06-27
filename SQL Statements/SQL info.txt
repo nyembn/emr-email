@@ -1,0 +1,7 @@
+First make sure that apache and mysql servers are running and you have account setup on mysql server
+
+Option 1: Open localhost/openemr in the browser, under patient create new Patient with external id, first name, last name, gender, ss etc.
+
+Option 2: Open localhost/phpmyadmin find the patient_data table in the openemr database and select it. Then on the top row click on Insert and fill out the fields (mandatory fields: id, fname, lname, ss)
+
+

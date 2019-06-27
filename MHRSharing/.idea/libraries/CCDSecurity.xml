@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="CCDSecurity">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../CCDSecurity/out/artifacts/CCDSecurity_jar/CCDSecurity.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
